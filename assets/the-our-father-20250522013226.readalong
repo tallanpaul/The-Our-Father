@@ -1,0 +1,45 @@
+<read-along version="1.2">
+    <meta name="generator" content="@readalongs/studio (cli) 1.2.1" id="meta0"/>
+    <text xml:lang="und" fallback-langs="und" id="t0"><body id="t0b0">
+        
+            <div type="page" id="t0b0d0">
+                <p id="t0b0d0p0">
+                    <s id="t0b0d0p0s0"><w id="t0b0d0p0s0w0" ARPABET="N IY L HH" time="1.03" dur="0.46333153978167885">nilh</w> <w id="t0b0d0p0s0w1" ARPABET="M AA N L HH" time="1.4899993543214045" dur="0.6766596359441823">man-lh</w> <w id="t0b0d0p0s0w2" ARPABET="CH HH S EY" time="2.166658990265587" dur="0.3900066720121531">chse</w> <w id="t0b0d0p0s0w3" ARPABET="L AA EY" time="2.55666566227774" dur="0.40999935432140466">lae</w> <w id="t0b0d0p0s0w4" ARPABET="T S EY" time="2.9666650165991446" dur="0.19333498340085553">tse</w> <w id="t0b0d0p0s0w5" ARPABET="S K W EY Y EY L EY" time="3.16" dur="0.8199963411546252">skweyele</w></s><s do-not-align="true" id="t0b0d0p0s0" sentence-id="t0b0d0p0s0" class="sentence__translation editable__translation" xml:lang="eng">Our Father, who art in heaven,</s>
+                </p>
+                <p id="t0b0d0p1">
+                    <s id="t0b0d0p1s0"><w id="t0b0d0p1s0w0" ARPABET="K AA K AA L HH" time="4.64" dur="0.7">xaxalh</w> <w id="t0b0d0p1s0w1" ARPABET="EY N S N AA" time="5.34" dur="0.7066632947895561">en-sna</w></s><s do-not-align="true" id="t0b0d0p1s0" sentence-id="t0b0d0p1s0" class="sentence__translation editable__translation" xml:lang="eng">hallowed be thy name</s>
+                </p>
+                <p id="t0b0d0p2">
+                    <s id="t0b0d0p2s0"><w id="t0b0d0p2s0w0" ARPABET="EY N S K W EY N AA N G" time="6.72000301316678" dur="1.0966576989083947">en-sxwenang</w> <w id="t0b0d0p2s0w1" ARPABET="EY N AA" time="7.8166607120751745" dur="0.5666701820279076">'ena'</w></s><s do-not-align="true" id="t0b0d0p2s0" sentence-id="t0b0d0p2s0" class="sentence__translation editable__translation" xml:lang="eng">thy kingdom come</s>
+                </p>
+                <p id="t0b0d0p3">
+                    <s id="t0b0d0p3s0"><w id="t0b0d0p3s0w0" ARPABET="EY N S L EY L" time="8.993335629079452" dur="0.7966643709205474">en-slel</w> <w id="t0b0d0p3s0w1" ARPABET="T S EY" time="10.21" dur="0.19">tse</w> <w id="t0b0d0p3s0w2" ARPABET="S L HH OW S T" time="10.4" dur="0.94">slhost</w></s><s do-not-align="true" id="t0b0d0p3s0" sentence-id="t0b0d0p3s0" class="sentence__translation editable__translation" xml:lang="eng">thy will be done</s>
+                </p>
+                <p id="t0b0d0p4">
+                    <s id="t0b0d0p4s0"><w id="t0b0d0p4s0w0" ARPABET="AA L HH EY" time="12.133333907269861" dur="0.4266660927301391">alhe</w> <w id="t0b0d0p4s0w1" ARPABET="T IY EY" time="12.56" dur="0.34">ti'e</w> <w id="t0b0d0p4s0w2" ARPABET="S HH CH HH T EY N G EY K W EY N" time="12.9" dur="1.3899982781904132">shchtengexwen</w> <w id="t0b0d0p4s0w3" ARPABET="IY" time="14.740000645678595" dur="0.2199993543214056">'i'</w> <w id="t0b0d0p4s0w4" ARPABET="T S EY" time="14.96" dur="0.22">tse</w> <w id="t0b0d0p4s0w5" ARPABET="S K W EY Y EY L EY" time="15.18" dur="0.68">skweyele</w></s><s do-not-align="true" id="t0b0d0p4s0" sentence-id="t0b0d0p4s0" class="sentence__translation editable__translation" xml:lang="eng">on earth as it is in heaven</s>
+                </p>
+                <p id="t0b0d0p5">
+                    <s id="t0b0d0p5s0"><w id="t0b0d0p5s0w0" ARPABET="OW N G EY T OW N G EY L HH" time="16.950000430452395" dur="1.0899995695476044">onget-ongelh</w> <w id="t0b0d0p5s0w1" ARPABET="T IY EY" time="18.04" dur="0.27">ti'e</w> <w id="t0b0d0p5s0w2" ARPABET="S K W EY Y EY L" time="18.31" dur="0.6266678145397258">skweyel</w> <w id="t0b0d0p5s0w3" ARPABET="EY" time="18.936667814539724" dur="0.0833321854602751">e</w> <w id="t0b0d0p5s0w4" ARPABET="T S EY" time="19.02" dur="0.28">tse</w> <w id="t0b0d0p5s0w5" ARPABET="S EY P L IY L L HH" time="19.3" dur="1.04">seplil-lh</w></s><s do-not-align="true" id="t0b0d0p5s0" sentence-id="t0b0d0p5s0" class="sentence__translation editable__translation" xml:lang="eng">give us this day our daily bread</s>
+                </p>
+                <p id="t0b0d0p6">
+                    <s id="t0b0d0p6s0"><w id="t0b0d0p6s0w0" ARPABET="K W AA EY L EY K OW N G EY L HH" time="21.31" dur="1.3">qwaelex-ongelh</w> <w id="t0b0d0p6s0w1" ARPABET="T S EY" time="23.13" dur="0.19">tse</w> <w id="t0b0d0p6s0w2" ARPABET="S T HH EY K L HH" time="23.32" dur="0.95">st'ex-lh</w></s><s do-not-align="true" id="t0b0d0p6s0" sentence-id="t0b0d0p6s0" class="sentence__translation editable__translation" xml:lang="eng">and forgive us our trespasses</s>
+                </p>
+                <p id="t0b0d0p7">
+                    <s id="t0b0d0p7s0">‘<w id="t0b0d0p7s0w0" ARPABET="IY" time="25.25" dur="0.18">i</w>’ <w id="t0b0d0p7s0w1" ARPABET="K W AA EY L EY K L HH" time="25.43" dur="0.9233349834008564">qwaelex-lh</w> <w id="t0b0d0p7s0w2" ARPABET="L HH EY" time="26.353375526811845" dur="0.20662447318815325">lhe</w> <w id="t0b0d0p7s0w3" ARPABET="N IY" time="26.56" dur="0.56">ni</w>’ <w id="t0b0d0p7s0w4" ARPABET="K W S IY S AA EY CH HH IY N G" time="27.55" dur="1.17">kw si-saeching</w> <w id="t0b0d0p7s0w5" ARPABET="K EY N AA T IY N G L HH" time="28.963336489984243" dur="1.2299961259284302">xenating-lh</w></s><s do-not-align="true" id="t0b0d0p7s0" sentence-id="t0b0d0p7s0" class="sentence__translation editable__translation" xml:lang="eng">as we forgive those who trespass against us</s>
+                </p>
+                <p id="t0b0d0p8">
+                    <s id="t0b0d0p8s0"><w id="t0b0d0p8s0w0" ARPABET="EY W EY" time="31.616670397254108" dur="0.4533296027458924">'ewe'</w> <w id="t0b0d0p8s0w1" ARPABET="T L EY" time="32.07" dur="0.32">tl'e</w> <w id="t0b0d0p8s0w2" ARPABET="EY S M EY S IY N EY K W" time="32.39" dur="1.29">esmesinexw</w> <w id="t0b0d0p8s0w3" ARPABET="K W EY N S K W EY N EY T" time="33.68" dur="0.98">kw en-s-kwenet</w> <w id="t0b0d0p8s0w4" ARPABET="T S EY" time="34.91" dur="0.22">tse</w> <w id="t0b0d0p8s0w5" ARPABET="K EY CH HH N G IY N L HH" time="35.13" dur="1.13">xechngin-lh</w></s><s do-not-align="true" id="t0b0d0p8s0" sentence-id="t0b0d0p8s0" class="sentence__translation editable__translation" xml:lang="eng">and lead us not into temptation</s>
+                </p>
+                <p id="t0b0d0p9">
+                    <s id="t0b0d0p9s0"><w id="t0b0d0p9s0w0" ARPABET="IY" time="37.206667599313526" dur="0.2033324006864703">'i'</w> <w id="t0b0d0p9s0w1" ARPABET="K W EY N EY T OW N G EY L HH" time="37.41" dur="1.23">kwenet-ongelh</w> <w id="t0b0d0p9s0w2" ARPABET="CH HH EY" time="38.74" dur="0.18">che</w> <w id="t0b0d0p9s0w3" ARPABET="S K AA EY S" time="38.92" dur="0.9">sxaes</w></s><s do-not-align="true" id="t0b0d0p9s0" sentence-id="t0b0d0p9s0" class="sentence__translation editable__translation" xml:lang="eng">but deliver us from evil</s>
+                </p>
+                <p id="t0b0d0p10">
+                    <s id="t0b0d0p10s0"><w id="t0b0d0p10s0w0" ARPABET="M EY K W" time="40.72" dur="0.3999999999999986">mekw</w> <w id="t0b0d0p10s0w1" ARPABET="S T AA N G" time="41.12" dur="0.6066671688611223">stang</w> <w id="t0b0d0p10s0w2" ARPABET="EY N S K W AA" time="41.72666716886112" dur="0.8433328311388806">en-skwa</w> <w id="t0b0d0p10s0w3" ARPABET="IY" time="43.1300006456786" dur="0.1799993543214029">'i'</w> <w id="t0b0d0p10s0w4" ARPABET="K W EY L" time="43.31" dur="0.31999870864280666">kwel</w> <w id="t0b0d0p10s0w5" ARPABET="N IY L HH S EY" time="43.62999870864281" dur="0.8200006456785971">nilh-se</w> <w id="t0b0d0p10s0w6" ARPABET="K W S IY K AA K AA L HH" time="44.449999354321406" dur="1.2200006456785957">kw si-xaxalh</w></s><s do-not-align="true" id="t0b0d0p10s0" sentence-id="t0b0d0p10s0" class="sentence__translation editable__translation" xml:lang="eng">For thine is the kingdom, and the power, and the glory, for ever and ever</s>
+                </p>
+                <p id="t0b0d0p11">
+                    <s id="t0b0d0p11s0"><w id="t0b0d0p11s0w0" ARPABET="N IY L HH" time="46.67" dur="0.39">nilh</w> <w id="t0b0d0p11s0w1" ARPABET="K W CH HH EY" time="47.06" dur="0.46">kwche</w> <w id="t0b0d0p11s0w2" ARPABET="K W S HH EY Y S" time="47.52" dur="0.79">xw-s-hey'-s</w></s><s do-not-align="true" id="t0b0d0p11s0" sentence-id="t0b0d0p11s0" class="sentence__translation editable__translation" xml:lang="eng">amen</s>
+                </p>
+            </div>
+        
+    </body></text>
+</read-along>

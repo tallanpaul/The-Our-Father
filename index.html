@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>The Our Father</title>
+    <meta name="application-name" content="read along">
+    <meta name="generator" content="@readalongs/studio-web 1.5.2">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Import fonts. Material Icons are needed by the web component -->
+    <link href="https://fonts.googleapis.com/css?family=Lato%7CMaterial+Icons%7CMaterial+Icons+Outlined" rel="stylesheet">
+  </head>
+
+  <body>
+    <!-- Here is how you declare the Web Component. Supported languages: en, fr -->
+    <read-along href="assets/the-our-father-20250522013226.readalong" audio="assets/the-our-father-20250522013226.wav" theme="light" language="en" image-assets-folder="assets/">
+      <span slot='read-along-header'>The Our Father</span>
+      <span slot='read-along-subheader'>Narrated by Tallan Paul</span>
+    </read-along>
+  </body>
+
+  <!-- The last step needed is to import the package -->
+  <script type="module" src='https://unpkg.com/@readalongs/web-component@^1.5.2/dist/web-component/web-component.esm.js'></script>
+</html>
